@@ -1,0 +1,18 @@
+.titre {
+    color: #ffaf00;
+}
+
+.card_about_us {
+    width: 300px;
+    height: 300px;
+}
+
+.card_about_us_2{
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+}
+
+.course_card{
+    height: 500px !important;
+}
